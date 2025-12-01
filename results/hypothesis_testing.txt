@@ -1,0 +1,5 @@
+[3] Hypothesis Testing (T-Test)
+High Sentiment Weeks (N=58) vs Low Sentiment Weeks (N=12)
+T-statistic: -1.0388, P-value: 0.3163
+
+Paired T-test (controlling for ticker): T-statistic: -1.0584, P-value: 0.3496

@@ -1,0 +1,40 @@
+ticker,company,aliases
+AAPL,Apple Inc,Apple;iPhone;MacBook
+MSFT,Microsoft Corp,Microsoft;Windows;Azure;Office
+GOOG,Alphabet Inc,Google;YouTube;Chrome
+AMZN,Amazon.com Inc,Amazon;AWS;Prime
+META,Meta Platforms,Facebook;Instagram;WhatsApp
+TSLA,Tesla Inc,Tesla;Elon;Cybertruck;Model 3
+NVDA,NVIDIA Corp,NVIDIA;GeForce;AI chips
+AMD,Advanced Micro Devices,AMD;Ryzen;Radeon
+INTC,Intel Corp,Intel;Core i9;Xeon
+DIS,The Walt Disney Company,Disney;Hulu;ESPN;Disney+
+NFLX,Netflix Inc,Netflix
+PYPL,PayPal Holdings,PayPal;Venmo
+JPM,JPMorgan Chase,Chase Bank;JPMorgan
+BAC,Bank of America,BofA;Merrill
+WMT,Walmart Inc,Walmart
+COST,Costco Wholesale,Costco
+KO,Coca-Cola,Coke
+PEP,PepsiCo,Pepsi
+XOM,Exxon Mobil,Exxon;Mobil
+CVX,Chevron,Chevron Corp
+GS,Goldman Sachs,Goldman
+MS,Morgan Stanley,
+BA,Boeing,Boeing Co
+UBER,Uber Technologies,Uber
+LYFT,Lyft,
+CRM,Salesforce,Salesforce.com
+ORCL,Oracle,Oracle Corp
+ADBE,Adobe Inc,Adobe;Photoshop
+NKE,Nike Inc,Nike
+PFE,Pfizer Inc,Pfizer;BioNTech
+MRNA,Moderna Inc,Moderna
+UNH,UnitedHealth Group,United Health
+HD,Home Depot,The Home Depot
+LOW,Lowe's,Lowes
+SOFI,SoFi Technologies,SoFi
+PLTR,Palantir Technologies,Palantir
+SNOW,Snowflake Inc,Snowflake
+GME,GameStop,Gamestop
+AMC,AMC Entertainment,AMC

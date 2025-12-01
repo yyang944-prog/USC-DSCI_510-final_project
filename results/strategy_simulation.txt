@@ -1,0 +1,4 @@
+[4] Sentiment Strategy Simulation
+Average Weekly Return (All Data): 1.14%
+Average Weekly Return (High Sentiment Weeks Only): 1.91%
+>> Strategy Improvement: 0.78 percentage points
